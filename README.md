@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asa3mery
 - 👀 I’m interested in gaming and music projects as well as a job
-- 🌱 I’m currently learning react, angular, and relearning Java, PHP/HTML, Javascript
+- 🌱 I’m currently learning react, angular, C++ and relearning Java, PHP/HTML, Javascript
 - 💞️ I’m looking to collaborate on gaming projects mainly, but anything's good.
 - 📫 You can reach me at samuelalemery@gmail.com
 
